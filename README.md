@@ -1,4 +1,4 @@
-PULSE TAG Backend Made By (player)
+Backend Made By (player)
 
 import json
 import random
